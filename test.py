@@ -1,1 +1,1 @@
-print("Hello World, this is the first feature.")
+print("Hello World")
